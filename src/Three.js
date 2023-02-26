@@ -1,5 +1,4 @@
-import { REVISION } from './constants.js';
-
+export { REVISION } from './constants.js';
 export { ShaderLib } from './renderers/shaders/ShaderLib.js';
 export { UniformsLib } from './renderers/shaders/UniformsLib.js';
 export { UniformsUtils } from './renderers/shaders/UniformsUtils.js';
